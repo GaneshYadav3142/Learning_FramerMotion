@@ -18,7 +18,7 @@ This is the Small MiniProject which Uses ReactJs and Framer Motion , for biuldin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/GaneshYadav3142/Hosteller_Assignment.git
+   git clone https://github.com/GaneshYadav3142/Learning_FramerMotion.git
 
 
 2. Open the  terminal, move to **sidebar** directory:
