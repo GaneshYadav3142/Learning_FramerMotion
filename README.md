@@ -12,9 +12,8 @@
 
 ## Deployed Link
 
-1. Deployed link
+1. Deployed link:
 
-   ```bash
    https://658ed673f7667fb9261db622--coruscating-biscotti-ba2058.netlify.app/  
 
 ## How to Start the App
